@@ -1,3 +1,0 @@
-INDEX VERSION 1.126+F:\work\ObjectiveTraining\.metadata\.plugins\org.eclipse.jdt.core
-4239335273.index
-1978649731.index
